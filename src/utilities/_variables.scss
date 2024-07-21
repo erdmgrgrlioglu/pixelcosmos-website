@@ -1,0 +1,25 @@
+// Colors
+$colors: (
+  "bg_color": #350769,
+  "purple_1": #480769,
+  "purple_2": #5f0769,
+  "purple_3": #99197d,
+  "purple_4": #c43f86,
+  "purple_5": #de458f,
+  "orange": #c87503,
+  "orange_light": #f2e67b,
+  "default_white": #ffffff, 
+);
+
+//webpack needed!
+:export {
+  bgColor: map-get($colors, "bg_color");
+  purple1: map-get($colors, "purple_1"); 
+  purple2: map-get($colors, "purple_2"); 
+  purple3: map-get($colors, "purple_3"); 
+  purple4: map-get($colors, "purple_4"); 
+  purple5: map-get($colors, "purple_5"); 
+  orange: map-get($colors, "orange");
+  orangeLight: map-get($colors, "orange_light");  
+  defaultWhite: map-get($colors, "default_white");
+}

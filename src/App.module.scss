@@ -1,0 +1,31 @@
+@use "utilities/variables";
+
+@font-face {
+  font-family: "Pixelify";
+  src: url(./fonts/PixelifySans-Regular.ttf);
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: "Pixelify";
+  src: url(./fonts/PixelifySans-SemiBold.ttf);
+  font-weight: 600;
+}
+
+html {
+    font-family: "Pixelify";
+    color: map-get(variables.$colors, "default_white");
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+a {
+   color: map-get(variables.$colors, "default_white");
+    text-decoration: none;
+  }
+body {
+    width: 96%;
+    margin: auto;
+    background-color: map-get(variables.$colors, "bg_color");
+    font-size: 1rem;
+}
