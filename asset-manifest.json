@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pixelcosmos-website/static/css/main.0fc9618b.css",
+    "main.js": "/pixelcosmos-website/static/js/main.9bf2b3d2.js",
+    "index.html": "/pixelcosmos-website/index.html",
+    "main.0fc9618b.css.map": "/pixelcosmos-website/static/css/main.0fc9618b.css.map",
+    "main.9bf2b3d2.js.map": "/pixelcosmos-website/static/js/main.9bf2b3d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fc9618b.css",
+    "static/js/main.9bf2b3d2.js"
+  ]
+}
