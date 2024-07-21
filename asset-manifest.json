@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/pixelcosmos-website/static/css/main.0fc9618b.css",
-    "main.js": "/pixelcosmos-website/static/js/main.9bf2b3d2.js",
+    "main.css": "/pixelcosmos-website/static/css/main.0b6ef057.css",
+    "main.js": "/pixelcosmos-website/static/js/main.b9111161.js",
+    "static/media/PixelifySans-Regular.ttf": "/pixelcosmos-website/static/media/PixelifySans-Regular.78dfe66b4f31904f6ee9.ttf",
+    "static/media/PixelifySans-SemiBold.ttf": "/pixelcosmos-website/static/media/PixelifySans-SemiBold.b84b59169e256e448232.ttf",
     "index.html": "/pixelcosmos-website/index.html",
-    "main.0fc9618b.css.map": "/pixelcosmos-website/static/css/main.0fc9618b.css.map",
-    "main.9bf2b3d2.js.map": "/pixelcosmos-website/static/js/main.9bf2b3d2.js.map"
+    "main.0b6ef057.css.map": "/pixelcosmos-website/static/css/main.0b6ef057.css.map",
+    "main.b9111161.js.map": "/pixelcosmos-website/static/js/main.b9111161.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fc9618b.css",
-    "static/js/main.9bf2b3d2.js"
+    "static/css/main.0b6ef057.css",
+    "static/js/main.b9111161.js"
   ]
 }
