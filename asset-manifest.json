@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/pixelcosmos-website/static/css/main.a6372681.css",
-    "main.js": "/pixelcosmos-website/static/js/main.833218ac.js",
+    "main.css": "/pixelcosmos-website/static/css/main.9f11d526.css",
+    "main.js": "/pixelcosmos-website/static/js/main.ddb587e8.js",
     "static/media/PixelifySans-Regular.ttf": "/pixelcosmos-website/static/media/PixelifySans-Regular.78dfe66b4f31904f6ee9.ttf",
     "static/media/PixelifySans-SemiBold.ttf": "/pixelcosmos-website/static/media/PixelifySans-SemiBold.b84b59169e256e448232.ttf",
     "static/media/PixelForest.png": "/pixelcosmos-website/static/media/PixelForest.bccf0e23aa09b8de2634.png",
     "static/media/logo.png": "/pixelcosmos-website/static/media/logo.d5075e549aa6fba8edb9.png",
     "index.html": "/pixelcosmos-website/index.html",
-    "main.a6372681.css.map": "/pixelcosmos-website/static/css/main.a6372681.css.map",
-    "main.833218ac.js.map": "/pixelcosmos-website/static/js/main.833218ac.js.map"
+    "main.9f11d526.css.map": "/pixelcosmos-website/static/css/main.9f11d526.css.map",
+    "main.ddb587e8.js.map": "/pixelcosmos-website/static/js/main.ddb587e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6372681.css",
-    "static/js/main.833218ac.js"
+    "static/css/main.9f11d526.css",
+    "static/js/main.ddb587e8.js"
   ]
 }
