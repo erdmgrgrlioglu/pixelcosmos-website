@@ -1,3 +1,4 @@
+@use "sass:map";
 @use "utilities/variables";
 
 @font-face {
@@ -13,20 +14,21 @@
 }
 
 html {
-    font-family: "Pixelify";
-    color: map-get(variables.$colors, "default_white");
-    text-decoration: none;
-    font-size: 1.5rem;
+  font-family: "Pixelify";
+  color: map.get(variables.$colors, "default_white");
+  text-decoration: none;
+  font-size: 1.5rem;
+  height: 100%;
+}
+
+body {
+  width: 96%;
+  margin: auto;
+  background-color: map.get(variables.$colors, "bg_color");
+  height: 100%;
 }
 
 a {
-   color: map-get(variables.$colors, "default_white");
-    text-decoration: none;
-  }
-
-body {
-    width: 96%;
-    margin: auto;
-    background-color: #390a66;
-    font-size: 1rem;
+  color: map.get(variables.$colors, "default_white");
+  text-decoration: none;
 }

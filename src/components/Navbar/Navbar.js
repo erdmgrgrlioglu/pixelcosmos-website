@@ -15,10 +15,9 @@ export default function Navbar() {
           className={classes.text}
           onClick={() => {
             setActive(false);
-            navigate("");
           }}
         >
-          <p>{"Pixel Cosmos"}</p>
+          <p>Pixel Cosmos</p>
         </div>
         <div className={classes.menu}>
           <div
@@ -39,11 +38,11 @@ export default function Navbar() {
         <div
           className={classes.dropdownItem}
           onClick={() => {
-            navigate("/about");
+            navigate("");
             setActive(false);
           }}
         >
-          <p>{"About"}</p>
+          <p>About</p>
         </div>
         <div
           className={classes.dropdownItem}
@@ -52,7 +51,7 @@ export default function Navbar() {
             navigate("/projects");
           }}
         >
-          <p>{"Projects"}</p>
+          <p>Projects</p>
         </div>
       </div>
     </header>
